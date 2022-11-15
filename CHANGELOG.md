@@ -1,3 +1,15 @@
+# v0.2.3 (Tue Nov 15 2022)
+
+#### ⚠️ Pushed to `main`
+
+- adicionando AbModal ([@paulowillers](https://github.com/paulowillers))
+
+#### Authors: 1
+
+- [@paulowillers](https://github.com/paulowillers)
+
+---
+
 # v0.2.2 (Mon Nov 14 2022)
 
 #### ⚠️ Pushed to `main`
